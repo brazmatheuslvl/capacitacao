@@ -1,0 +1,16 @@
+#servicos
+{
+position: relative;
+background-image: url(..\tour-bg.jpg);
+background-repeat: repeat-x;
+height: 155px;
+background-position: center;
+display: table;
+width: 100%;
+}
+
+#sobre
+{
+background: url(slider.jpg) 0 100% repeat-x;
+position: relative;
+}
